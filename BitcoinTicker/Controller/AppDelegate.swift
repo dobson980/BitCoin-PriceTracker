@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  BitcoinTicker
+//  BitCoin-PriceTracker
 //
-//  Created by Angela Yu on 23/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Tom Dobson on 08/31/17.
+//  Copyright © 2017 Dobson Studios. All rights reserved.
 //
 
 import UIKit
